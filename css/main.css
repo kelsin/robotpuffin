@@ -18,7 +18,7 @@ body {
 h1 {
   font-family: "metallophile-sp8";
   font-size: 5em;
-  background-image: url('/images/robotpuffin.gif');
+  background-image: url('/images/robotpuffin-filled.gif');
   background-repeat: no-repeat;
   background-position: center center;
 }
