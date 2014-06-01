@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #e6e6e6;
+  color: #303030;
+  font-size: 16pt;
+}
+
+#content {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-family: "metallophile-sp8";
+  font-size: 5em;
+}
